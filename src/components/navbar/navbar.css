@@ -111,4 +111,7 @@
     .mzt2-navbar-menu-container{
         top: 20px;
     }
+    .mzt2-navbar-menu-container-links-sign{
+        display: block;
+    }
 }
