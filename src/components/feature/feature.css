@@ -17,7 +17,7 @@
     font-family: var(--font-family);
     font-weight: 800;
     font-size: 24px;
-    line-height: 75px;
+    line-height: 55px;
     color: #fff;
     letter-spacing: -0.04em;
   }
@@ -49,7 +49,7 @@
       font-size: 12px;
       line-height: 20px;
     }
-    .mzt2-features-container-features- {
+    .mzt2-features-container-features {
       margin: 1rem 0;
     }
   }
