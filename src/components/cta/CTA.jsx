@@ -2,6 +2,14 @@ import React from 'react'
 import "./cta.css"
 
 const CTA = () => {
+  useEffect(() => {
+    first
+  
+    return () => {
+      second
+    }
+  }, [third])
+  
   return (
     <div className='mzt2-cta'>
       <div className="mzt2-cta-content">
